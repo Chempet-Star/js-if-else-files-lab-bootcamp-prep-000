@@ -1,1 +1,1 @@
-var name = "index.js"
+var index = require ("./index.js")
